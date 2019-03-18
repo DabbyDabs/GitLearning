@@ -7,3 +7,4 @@ console.log("this is to greet"+ name);
 
 }
 greeter("Mayank")
+console.log('lemme check if my email id is got right there or not!')
